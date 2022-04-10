@@ -59,4 +59,6 @@ Readers can apply this method to classify seed varieties wheat because it has a 
 
 You can see this full project in the folder 'Project Classification of Wheat Kernels Types - Backpropagation [Artificial Neural Networks]'
 
-#### Don't forget to provide the source if you use this project!
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Don't forget to provide the source if you use this project!
